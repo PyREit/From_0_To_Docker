@@ -1,0 +1,9 @@
+C:\Progetti\Sandbox\WebApiSwaggerAndMvc\src\WebApiSwaggerAndMvc.WebApiSdk\bin\Debug\netstandard2.0\WebApiSwaggerAndMvc.WebApi.Sdk.deps.json
+C:\Progetti\Sandbox\WebApiSwaggerAndMvc\src\WebApiSwaggerAndMvc.WebApiSdk\bin\Debug\netstandard2.0\WebApiSwaggerAndMvc.WebApi.Sdk.dll
+C:\Progetti\Sandbox\WebApiSwaggerAndMvc\src\WebApiSwaggerAndMvc.WebApiSdk\bin\Debug\netstandard2.0\WebApiSwaggerAndMvc.WebApi.Sdk.pdb
+C:\Progetti\Sandbox\WebApiSwaggerAndMvc\src\WebApiSwaggerAndMvc.WebApiSdk\obj\Debug\netstandard2.0\WebApiSwaggerAndMvc.WebApi.Sdk.csproj.CoreCompileInputs.cache
+C:\Progetti\Sandbox\WebApiSwaggerAndMvc\src\WebApiSwaggerAndMvc.WebApiSdk\obj\Debug\netstandard2.0\WebApiSwaggerAndMvc.WebApi.Sdk.AssemblyInfoInputs.cache
+C:\Progetti\Sandbox\WebApiSwaggerAndMvc\src\WebApiSwaggerAndMvc.WebApiSdk\obj\Debug\netstandard2.0\WebApiSwaggerAndMvc.WebApi.Sdk.AssemblyInfo.cs
+C:\Progetti\Sandbox\WebApiSwaggerAndMvc\src\WebApiSwaggerAndMvc.WebApiSdk\obj\Debug\netstandard2.0\WebApiSwaggerAndMvc.WebApi.Sdk.dll
+C:\Progetti\Sandbox\WebApiSwaggerAndMvc\src\WebApiSwaggerAndMvc.WebApiSdk\obj\Debug\netstandard2.0\WebApiSwaggerAndMvc.WebApi.Sdk.pdb
+C:\Progetti\Sandbox\WebApiSwaggerAndMvc\src\WebApiSwaggerAndMvc.WebApiSdk\obj\Debug\netstandard2.0\WebApiSwaggerAndMvc.WebApi.Sdk.csprojResolveAssemblyReference.cache

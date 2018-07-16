@@ -1,0 +1,23 @@
+version: '3'
+services:
+  proxy:
+    image: pyre_proxy
+    restart: always
+    build: nginx
+    container_name: pyre_proxy
+    links:
+      - pyreWWW
+    ports:
+      - "80:80"
+    volumes:
+      - ./logs/nginx:/var/log/nginx/
+
+  pyreWWW:
+    image: pyre_dot_it
+    restart: always
+    build: https://github.com/kidrock/PyRE.git
+    container_name: pyre_www
+    ports:
+      - "8080"
+    volumes:
+      - ./config/config.py:/config.py

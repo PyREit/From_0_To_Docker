@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApiSwaggerAndMvc.WebApi", "src\WebApiSwaggerAndMvc.WebApi\WebApiSwaggerAndMvc.WebApi.csproj", "{BAEFC52D-C870-4A30-A510-43F3A406DA21}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{2B221544-0A01-4F34-B98A-BF5EBE159416}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApiSwaggerAndMvc.WebApi.Sdk", "src\WebApiSwaggerAndMvc.WebApiSdk\WebApiSwaggerAndMvc.WebApi.Sdk.csproj", "{3B54CB33-4C80-4024-A5D3-6F0DBF3DBF2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAEFC52D-C870-4A30-A510-43F3A406DA21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAEFC52D-C870-4A30-A510-43F3A406DA21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAEFC52D-C870-4A30-A510-43F3A406DA21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAEFC52D-C870-4A30-A510-43F3A406DA21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B54CB33-4C80-4024-A5D3-6F0DBF3DBF2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B54CB33-4C80-4024-A5D3-6F0DBF3DBF2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B54CB33-4C80-4024-A5D3-6F0DBF3DBF2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B54CB33-4C80-4024-A5D3-6F0DBF3DBF2C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{BAEFC52D-C870-4A30-A510-43F3A406DA21} = {2B221544-0A01-4F34-B98A-BF5EBE159416}
+		{3B54CB33-4C80-4024-A5D3-6F0DBF3DBF2C} = {2B221544-0A01-4F34-B98A-BF5EBE159416}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC42C307-E8C0-43F9-8E38-1C35E348CA1C}
+	EndGlobalSection
+EndGlobal
